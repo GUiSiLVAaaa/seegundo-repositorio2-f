@@ -1,0 +1,1 @@
+const botãoMostraPalavras = document.querySelector('#botao-palavrachave');
