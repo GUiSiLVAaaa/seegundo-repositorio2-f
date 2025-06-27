@@ -4,4 +4,4 @@ botãoMostraPalavras.addEventListener('click', mostraPalavraChave);
 
 function mostraPalavraChave() {
     alert("fui clicado!")
-}
+}  
